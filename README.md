@@ -83,20 +83,6 @@ A monitoring project to observe server metrics and explore dashboards and alerti
 
 🔗 **Repository:** \[Add your monitoring repository URL after creating it]
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sumitk-Cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitk-Cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used repository languages"/>
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=Bhushan1814-Cloud&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
 ## 📜 Certifications \& Learning
 
 * AWS Academy Graduate – Cloud Foundation Training Badge
