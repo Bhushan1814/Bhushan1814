@@ -73,7 +73,7 @@ A hands-on project focused on automating application deployment with a CI/CD wor
 
 **Technologies:** Jenkins, GitHub, Linux, AWS EC2, SSH
 
-🔗 **Repository:** \[Add your Jenkins project repository URL here]
+🔗 **Repository:** https://github.com/Bhushan1814/node-js-app-CICD
 
 ### 4\. Prometheus \& Grafana Monitoring *(add when completed)*
 
