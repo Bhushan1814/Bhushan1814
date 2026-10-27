@@ -93,7 +93,7 @@ A monitoring project to observe server metrics and explore dashboards and alerti
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=sumitk-Cloud&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Bhushan1814-Cloud&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
