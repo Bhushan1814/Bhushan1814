@@ -81,7 +81,7 @@ A monitoring project to observe server metrics and explore dashboards and alerti
 
 **Technologies:** Prometheus, Grafana, Node Exporter, AWS EC2
 
-🔗 **Repository:** \[Add your monitoring repository URL after creating it]
+🔗 **Repository:** https://github.com/Bhushan1814/real-time-infrastructure-monitoring-prometheus-grafana.git
 
 ## 📜 Certifications \& Learning
 
