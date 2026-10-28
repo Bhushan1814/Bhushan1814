@@ -75,7 +75,7 @@ A hands-on project focused on automating application deployment with a CI/CD wor
 
 🔗 **Repository:** https://github.com/Bhushan1814/node-js-app-CICD
 
-### 4\. Prometheus \& Grafana Monitoring *(add when completed)*
+### 4\. Prometheus \& Grafana Monitoring 
 
 A monitoring project to observe server metrics and explore dashboards and alerting.
 
